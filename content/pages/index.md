@@ -103,7 +103,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: Gift Box
-        tagline: This is the tagline
+        tagline: Product
         subtitle: This is the item subtitle
         text: >
           Learn from the tutorial and build your first awesome Netlify Create
