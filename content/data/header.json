@@ -18,17 +18,6 @@
             "links": [
                 {
                     "type": "Link",
-                    "label": "Instagram",
-                    "altText": "Instagram",
-                    "url": "/quincy.flo_",
-                    "showIcon": true,
-                    "icon": "instagram",
-                    "iconPosition": "left",
-                    "style": "secondary",
-                    "elementId": ""
-                },
-                {
-                    "type": "Link",
                     "altText": "",
                     "url": "/quincy.flo_",
                     "showIcon": true,
