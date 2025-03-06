@@ -59,8 +59,9 @@ sections:
       - title: Bouquet
         tagline: Product
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          Buket yang merangkai bunga artificial yang  berpenampilan dan tekstur
+          yang sangat mirip dengan bunga asli.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder Image
