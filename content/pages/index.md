@@ -63,7 +63,7 @@ sections:
           Buket yang merangkai bunga artificial yang  berpenampilan dan tekstur
           yang sangat mirip dengan bunga asli.
         image:
-          url: /images/abstract-feature1.svg
+          url: "/images/Elif\U0001F98B.jpg"
           altText: Placeholder Image
           styles:
             self:
