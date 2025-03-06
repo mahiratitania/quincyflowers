@@ -43,7 +43,7 @@
             "altText": "Dropdown",
             "links": [
                 {
-                    "label": "Phone Number/Whatsapp",
+                    "label": "Phone Number",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
