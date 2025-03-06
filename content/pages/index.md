@@ -57,7 +57,7 @@ sections:
     subtitle: Most Featured Items
     items:
       - title: Bouquet
-        tagline: This is the tagline
+        tagline: Product
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
