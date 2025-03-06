@@ -17,14 +17,6 @@
             "altText": "Dropdown",
             "links": [
                 {
-                    "label": "Whatsapp",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                },
-                {
                     "label": "Instagram",
                     "url": "/",
                     "icon": "arrowRight",
