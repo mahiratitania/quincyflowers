@@ -87,7 +87,7 @@ sections:
           Rangkaian bunga artificial yang disusun dalam box atau basket yang
           elegan.
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/Flowerbox.jpg
           altText: Placeholder image
           styles:
             self:
