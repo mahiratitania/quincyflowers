@@ -17,7 +17,7 @@ sections:
       memberikan keindahan yang abadi kepada para pelanggan.
 
     actions:
-      - label: See Tutorials
+      - label: ''
         altText: ''
         url: /
         showIcon: true
