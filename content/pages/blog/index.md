@@ -5,7 +5,7 @@ numOfPostsPerPage: 8
 enableSearch: true
 topSections:
   - title:
-      text: Products
+      text: Location
       color: text-dark
       type: TitleBlock
     subtitle: This is the subtitle
