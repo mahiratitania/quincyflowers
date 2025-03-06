@@ -15,7 +15,19 @@
         {
             "label": "Contact Us",
             "altText": "Dropdown",
-            "links": [],
+            "links": [
+                {
+                    "type": "Link",
+                    "label": "Instagram",
+                    "altText": "Instagram",
+                    "url": "/quincy.flo_",
+                    "showIcon": true,
+                    "icon": "instagram",
+                    "iconPosition": "left",
+                    "style": "secondary",
+                    "elementId": ""
+                }
+            ],
             "labelStyle": "secondary",
             "type": "SubNav"
         }
