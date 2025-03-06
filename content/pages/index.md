@@ -107,9 +107,10 @@ sections:
       - title: Gift Box
         tagline: Product
         subtitle: ''
-        text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+        text: >+
+          Rangkaian bunga artificial yang yang dirancang dalam suatu frame atau
+          elemen dekoratif. Cocok untuk dijadikan mahar, suvenir, dan lainnya.
+
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder image
