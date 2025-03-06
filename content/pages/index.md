@@ -112,7 +112,7 @@ sections:
           elemen dekoratif. Cocok untuk dijadikan mahar, suvenir, dan lainnya.
 
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/Mahar Frame Rustic.jpg
           altText: Placeholder image
           styles:
             self:
