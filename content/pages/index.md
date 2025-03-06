@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: Quincy Flowers
-      color: text-dark
+      color: text-primary
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
