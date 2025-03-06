@@ -54,7 +54,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: Most Featured Items
     items:
       - title: Bouquet
         tagline: This is the tagline
