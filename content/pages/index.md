@@ -9,12 +9,13 @@ sections:
       type: TitleBlock
     subtitle: 'Crafting Joy, One Bloom At The Time'
     text: >+
-      Quincy Flower adalah bisnis yang bergerak di bidang kerajinan, khususnya
-      di kerajinan karangan bunga. Terinspirasi oleh keindahan alami bunga dan
-      kehangatan emosi yang mereka sampaikan, Quincy Flowers hadir untuk
-      menciptakan karya seni yang tidak hanya estetis, tetapi juga penuh makna.
-      Setiap bunga yang dibuat dengan tangan mencerminkan dedikasi kami untuk
-      memberikan keindahan yang abadi kepada para pelanggan.
+      <div style="text-align: left">Quincy Flower adalah bisnis yang bergerak di
+      bidang kerajinan, khususnya di kerajinan karangan bunga. Terinspirasi oleh
+      keindahan alami bunga dan kehangatan emosi yang mereka sampaikan, Quincy
+      Flowers hadir untuk menciptakan karya seni yang tidak hanya estetis,
+      tetapi juga penuh makna. Setiap bunga yang dibuat dengan tangan
+      mencerminkan dedikasi kami untuk memberikan keindahan yang abadi kepada
+      para pelanggan.</div>
 
     actions: []
     media:
