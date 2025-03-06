@@ -15,18 +15,7 @@
         {
             "label": "Contact Us",
             "altText": "Dropdown",
-            "links": [
-                {
-                    "type": "Link",
-                    "altText": "",
-                    "url": "https://www.instagram.com/quincy.flo_/",
-                    "showIcon": true,
-                    "icon": "instagram",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "elementId": ""
-                }
-            ],
+            "links": [],
             "labelStyle": "secondary",
             "type": "SubNav"
         }
