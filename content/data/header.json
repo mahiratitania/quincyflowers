@@ -21,7 +21,7 @@
             "type": "Link"
         },
         {
-            "label": "Location",
+            "label": "Products",
             "altText": "Careers page",
             "url": "/careers",
             "icon": "arrowRight",
