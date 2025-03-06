@@ -82,7 +82,7 @@ sections:
         type: FeaturedItem
       - title: Bloombox
         tagline: Product
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >
           Rangkaian bunga artificial yang disusun dalam box atau basket yang
           elegan.
