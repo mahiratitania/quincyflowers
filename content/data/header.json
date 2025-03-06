@@ -43,7 +43,7 @@
             "altText": "Dropdown",
             "links": [
                 {
-                    "label": "Dropdown item",
+                    "label": "Phone Number/Whatsapp",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
