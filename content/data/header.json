@@ -13,14 +13,6 @@
     },
     "primaryLinks": [
         {
-            "label": "About Us",
-            "url": "/pricing",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "label": "Location",
             "altText": "Blog",
             "url": "/blog",
