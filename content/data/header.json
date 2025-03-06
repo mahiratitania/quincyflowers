@@ -17,14 +17,6 @@
             "altText": "Dropdown",
             "links": [
                 {
-                    "label": "Instagram",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                },
-                {
                     "label": "Tiktok",
                     "url": "/",
                     "icon": "arrowRight",
