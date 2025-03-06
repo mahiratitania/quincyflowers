@@ -8,10 +8,14 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: 'Crafting Joy, One Bloom At The Time'
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      Quincy Flower adalah bisnis yang bergerak di bidang kerajinan, khususnya
+      di kerajinan karangan bunga. Terinspirasi oleh keindahan alami bunga dan
+      kehangatan emosi yang mereka sampaikan, Quincy Flowers hadir untuk
+      menciptakan karya seni yang tidak hanya estetis, tetapi juga penuh makna.
+      Setiap bunga yang dibuat dengan tangan mencerminkan dedikasi kami untuk
+      memberikan keindahan yang abadi kepada para pelanggan.
+
     actions:
       - label: Get started
         altText: ''
