@@ -4,7 +4,7 @@
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
+    "text": "Quincy Flowers\n",
     "primaryLinks": {
         "title": "Product",
         "links": [],
@@ -12,26 +12,14 @@
     },
     "socialLinks": [
         {
-            "altText": "GitHub link",
-            "url": "https://github.com/netlify",
-            "icon": "github",
+            "altText": "Instagram",
+            "url": "https://www.instagram.com/quincy.flo_/",
+            "icon": "instagram",
             "type": "Social"
         },
         {
-            "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
-            "icon": "twitter",
-            "type": "Social"
-        },
-        {
-            "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/netlify",
-            "icon": "linkedin",
-            "type": "Social"
-        },
-        {
-            "altText": "Email link",
-            "url": "/",
+            "altText": "Whatsapp Phone",
+            "url": "081352286565",
             "icon": "mail",
             "type": "Social"
         }

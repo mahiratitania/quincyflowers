@@ -9,12 +9,13 @@ sections:
       type: TitleBlock
     subtitle: 'Crafting Joy, One Bloom At The Time'
     text: >+
-      Quincy Flower adalah bisnis yang bergerak di bidang kerajinan, khususnya
-      di kerajinan karangan bunga. Terinspirasi oleh keindahan alami bunga dan
-      kehangatan emosi yang mereka sampaikan, Quincy Flowers hadir untuk
-      menciptakan karya seni yang tidak hanya estetis, tetapi juga penuh makna.
-      Setiap bunga yang dibuat dengan tangan mencerminkan dedikasi kami untuk
-      memberikan keindahan yang abadi kepada para pelanggan.
+      <div style="text-align: left">Quincy Flower adalah bisnis yang bergerak di
+      bidang kerajinan, khususnya di kerajinan karangan bunga. Terinspirasi oleh
+      keindahan alami bunga dan kehangatan emosi yang mereka sampaikan, Quincy
+      Flowers hadir untuk menciptakan karya seni yang tidak hanya estetis,
+      tetapi juga penuh makna. Setiap bunga yang dibuat dengan tangan
+      mencerminkan dedikasi kami untuk memberikan keindahan yang abadi kepada
+      para pelanggan.</div>
 
     actions: []
     media:
@@ -87,7 +88,7 @@ sections:
           Rangkaian bunga artificial yang disusun dalam box atau basket yang
           elegan.
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/Flowerbox.jpg
           altText: Placeholder image
           styles:
             self:
@@ -112,7 +113,7 @@ sections:
           elemen dekoratif. Cocok untuk dijadikan mahar, suvenir, dan lainnya.
 
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/Mahar Frame Rustic.jpg
           altText: Placeholder image
           styles:
             self:
@@ -130,7 +131,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
     variant: three-col-grid
-    colors: bg-neutral-fg-dark
+    colors: bg-light-fg-dark
     styles:
       self:
         padding:
@@ -142,65 +143,59 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
-  - title:
-      text: Generic Section With A Form
-      color: text-dark
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-12
+          - pl-12
+          - pb-12
+          - pr-12
+  - type: FeaturedItemsSection
+    title:
       type: TitleBlock
-    subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    media:
-      fields:
-        - name: name
-          label: Name
-          hideLabel: true
-          placeholder: Your name
-          isRequired: true
-          width: full
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Your email
-          isRequired: true
-          width: full
-          type: EmailFormControl
-        - name: message
-          label: Message
-          hideLabel: true
-          placeholder: Your message
-          width: full
-          type: TextareaFormControl
-      elementId: contact-form
+      text: Our Location
+      color: text-dark
       styles:
         self:
-          padding:
-            - pt-6
-            - pb-6
-            - pl-6
-            - pr-6
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: FormBlock
-      submitButton:
-        type: SubmitButtonFormControl
-        label: Submit
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: null
-    badge:
-      label: Contact Us
-      color: text-primary
-      type: Badge
+          textAlign: center
+    subtitle: ''
+    items:
+      - type: FeaturedItem
+        title: BSD City
+        subtitle: ''
+        text: >
+          Ruko Pasar Modern Intermoda BSD, Jl. Letnan Sutopo, Rw. Mekar Jaya,
+          Kec. Serpong, Kota Tangerang Selatan, Banten 15111.
+        actions: []
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            textAlign: left
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+    actions: []
+    variant: toggle-list
     colors: bg-light-fg-dark
-    type: GenericSection
+    styles:
+      self:
+        padding:
+          - pb-40
+          - pt-16
+          - pl-3
+          - pr-3
+        justifyContent: center
+      subtitle:
+        textAlign: center
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
